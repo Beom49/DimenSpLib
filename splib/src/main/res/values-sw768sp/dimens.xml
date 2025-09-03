@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    	
+    <dimen name="banner_applovin_sizesp">106.6667sp</dimen>
+    	
+    <dimen name="sizesp0">0.0000sp</dimen>
+    	
+    <dimen name="sizesp1">2.1333sp</dimen>
+    	
+    <dimen name="sizesp10">21.3333sp</dimen>
+    	
+    <dimen name="sizesp100">213.3333sp</dimen>
+    	
+    <dimen name="sizesp101">215.4667sp</dimen>
+    	
+    <dimen name="sizesp102">217.6000sp</dimen>
+    	
+    <dimen name="sizesp103">219.7333sp</dimen>
+    	
+    <dimen name="sizesp104">221.8667sp</dimen>
+    	
+    <dimen name="sizesp105">224.0000sp</dimen>
+    	
+    <dimen name="sizesp106">226.1333sp</dimen>
+    	
+    <dimen name="sizesp107">228.2667sp</dimen>
+    	
+    <dimen name="sizesp108">230.4000sp</dimen>
+    	
+    <dimen name="sizesp109">232.5333sp</dimen>
+    	
+    <dimen name="sizesp11">23.4667sp</dimen>
+    	
+    <dimen name="sizesp110">234.6667sp</dimen>
+    	
+    <dimen name="sizesp111">236.8000sp</dimen>
+    	
+    <dimen name="sizesp112">238.9333sp</dimen>
+    	
+    <dimen name="sizesp113">241.0667sp</dimen>
+    	
+    <dimen name="sizesp114">243.2000sp</dimen>
+    	
+    <dimen name="sizesp115">245.3333sp</dimen>
+    	
+    <dimen name="sizesp116">247.4667sp</dimen>
+    	
+    <dimen name="sizesp117">249.6000sp</dimen>
+    	
+    <dimen name="sizesp118">251.7333sp</dimen>
+    	
+    <dimen name="sizesp119">253.8667sp</dimen>
+    	
+    <dimen name="sizesp12">25.6000sp</dimen>
+    	
+    <dimen name="sizesp120">256.0000sp</dimen>
+    	
+    <dimen name="sizesp121">258.1333sp</dimen>
+    	
+    <dimen name="sizesp122">260.2667sp</dimen>
+    	
+    <dimen name="sizesp123">262.4000sp</dimen>
+    	
+    <dimen name="sizesp124">264.5333sp</dimen>
+    	
+    <dimen name="sizesp125">266.6667sp</dimen>
+    	
+    <dimen name="sizesp126">268.8000sp</dimen>
+    	
+    <dimen name="sizesp127">270.9333sp</dimen>
+    	
+    <dimen name="sizesp128">273.0667sp</dimen>
+    	
+    <dimen name="sizesp129">275.2000sp</dimen>
+    	
+    <dimen name="sizesp13">27.7333sp</dimen>
+    	
+    <dimen name="sizesp130">277.3333sp</dimen>
+    	
+    <dimen name="sizesp131">279.4667sp</dimen>
+    	
+    <dimen name="sizesp132">281.6000sp</dimen>
+    	
+    <dimen name="sizesp133">283.7333sp</dimen>
+    	
+    <dimen name="sizesp134">285.8667sp</dimen>
+    	
+    <dimen name="sizesp135">288.0000sp</dimen>
+    	
+    <dimen name="sizesp136">290.1333sp</dimen>
+    	
+    <dimen name="sizesp137">292.2667sp</dimen>
+    	
+    <dimen name="sizesp138">294.4000sp</dimen>
+    	
+    <dimen name="sizesp139">296.5333sp</dimen>
+    	
+    <dimen name="sizesp14">29.8667sp</dimen>
+    	
+    <dimen name="sizesp140">298.6667sp</dimen>
+    	
+    <dimen name="sizesp141">300.8000sp</dimen>
+    	
+    <dimen name="sizesp142">302.9333sp</dimen>
+    	
+    <dimen name="sizesp143">305.0667sp</dimen>
+    	
+    <dimen name="sizesp144">307.2000sp</dimen>
+    	
+    <dimen name="sizesp145">309.3333sp</dimen>
+    	
+    <dimen name="sizesp146">311.4667sp</dimen>
+    	
+    <dimen name="sizesp147">313.6000sp</dimen>
+    	
+    <dimen name="sizesp148">315.7333sp</dimen>
+    	
+    <dimen name="sizesp149">317.8667sp</dimen>
+    	
+    <dimen name="sizesp15">32.0000sp</dimen>
+    	
+    <dimen name="sizesp150">320.0000sp</dimen>
+    	
+    <dimen name="sizesp151">322.1333sp</dimen>
+    	
+    <dimen name="sizesp152">324.2667sp</dimen>
+    	
+    <dimen name="sizesp153">326.4000sp</dimen>
+    	
+    <dimen name="sizesp154">328.5333sp</dimen>
+    	
+    <dimen name="sizesp155">330.6667sp</dimen>
+    	
+    <dimen name="sizesp156">332.8000sp</dimen>
+    	
+    <dimen name="sizesp157">334.9333sp</dimen>
+    	
+    <dimen name="sizesp158">337.0667sp</dimen>
+    	
+    <dimen name="sizesp159">339.2000sp</dimen>
+    	
+    <dimen name="sizesp16">34.1333sp</dimen>
+    	
+    <dimen name="sizesp160">341.3333sp</dimen>
+    	
+    <dimen name="sizesp161">343.4667sp</dimen>
+    	
+    <dimen name="sizesp162">345.6000sp</dimen>
+    	
+    <dimen name="sizesp163">347.7333sp</dimen>
+    	
+    <dimen name="sizesp164">349.8667sp</dimen>
+    	
+    <dimen name="sizesp165">352.0000sp</dimen>
+    	
+    <dimen name="sizesp166">354.1333sp</dimen>
+    	
+    <dimen name="sizesp167">356.2667sp</dimen>
+    	
+    <dimen name="sizesp168">358.4000sp</dimen>
+    	
+    <dimen name="sizesp169">360.5333sp</dimen>
+    	
+    <dimen name="sizesp17">36.2667sp</dimen>
+    	
+    <dimen name="sizesp170">362.6667sp</dimen>
+    	
+    <dimen name="sizesp171">364.8000sp</dimen>
+    	
+    <dimen name="sizesp172">366.9333sp</dimen>
+    	
+    <dimen name="sizesp173">369.0667sp</dimen>
+    	
+    <dimen name="sizesp174">371.2000sp</dimen>
+    	
+    <dimen name="sizesp175">373.3333sp</dimen>
+    	
+    <dimen name="sizesp176">375.4667sp</dimen>
+    	
+    <dimen name="sizesp177">377.6000sp</dimen>
+    	
+    <dimen name="sizesp178">379.7333sp</dimen>
+    	
+    <dimen name="sizesp179">381.8667sp</dimen>
+    	
+    <dimen name="sizesp18">38.4000sp</dimen>
+    	
+    <dimen name="sizesp180">384.0000sp</dimen>
+    	
+    <dimen name="sizesp181">386.1333sp</dimen>
+    	
+    <dimen name="sizesp182">388.2667sp</dimen>
+    	
+    <dimen name="sizesp183">390.4000sp</dimen>
+    	
+    <dimen name="sizesp184">392.5333sp</dimen>
+    	
+    <dimen name="sizesp185">394.6667sp</dimen>
+    	
+    <dimen name="sizesp186">396.8000sp</dimen>
+    	
+    <dimen name="sizesp187">398.9333sp</dimen>
+    	
+    <dimen name="sizesp188">401.0667sp</dimen>
+    	
+    <dimen name="sizesp189">403.2000sp</dimen>
+    	
+    <dimen name="sizesp19">40.5333sp</dimen>
+    	
+    <dimen name="sizesp190">405.3333sp</dimen>
+    	
+    <dimen name="sizesp191">407.4667sp</dimen>
+    	
+    <dimen name="sizesp192">409.6000sp</dimen>
+    	
+    <dimen name="sizesp193">411.7333sp</dimen>
+    	
+    <dimen name="sizesp194">413.8667sp</dimen>
+    	
+    <dimen name="sizesp195">416.0000sp</dimen>
+    	
+    <dimen name="sizesp196">418.1333sp</dimen>
+    	
+    <dimen name="sizesp197">420.2667sp</dimen>
+    	
+    <dimen name="sizesp198">422.4000sp</dimen>
+    	
+    <dimen name="sizesp199">424.5333sp</dimen>
+    	
+    <dimen name="sizesp2">4.2667sp</dimen>
+    	
+    <dimen name="sizesp20">42.6667sp</dimen>
+    	
+    <dimen name="sizesp200">426.6667sp</dimen>
+    	
+    <dimen name="sizesp201">428.8000sp</dimen>
+    	
+    <dimen name="sizesp202">430.9333sp</dimen>
+    	
+    <dimen name="sizesp203">433.0667sp</dimen>
+    	
+    <dimen name="sizesp204">435.2000sp</dimen>
+    	
+    <dimen name="sizesp205">437.3333sp</dimen>
+    	
+    <dimen name="sizesp206">439.4667sp</dimen>
+    	
+    <dimen name="sizesp207">441.6000sp</dimen>
+    	
+    <dimen name="sizesp208">443.7333sp</dimen>
+    	
+    <dimen name="sizesp209">445.8667sp</dimen>
+    	
+    <dimen name="sizesp21">44.8000sp</dimen>
+    	
+    <dimen name="sizesp210">448.0000sp</dimen>
+    	
+    <dimen name="sizesp211">450.1333sp</dimen>
+    	
+    <dimen name="sizesp212">452.2667sp</dimen>
+    	
+    <dimen name="sizesp213">454.4000sp</dimen>
+    	
+    <dimen name="sizesp214">456.5333sp</dimen>
+    	
+    <dimen name="sizesp215">458.6667sp</dimen>
+    	
+    <dimen name="sizesp216">460.8000sp</dimen>
+    	
+    <dimen name="sizesp217">462.9333sp</dimen>
+    	
+    <dimen name="sizesp218">465.0667sp</dimen>
+    	
+    <dimen name="sizesp219">467.2000sp</dimen>
+    	
+    <dimen name="sizesp22">46.9333sp</dimen>
+    	
+    <dimen name="sizesp220">469.3333sp</dimen>
+    	
+    <dimen name="sizesp221">471.4667sp</dimen>
+    	
+    <dimen name="sizesp222">473.6000sp</dimen>
+    	
+    <dimen name="sizesp223">475.7333sp</dimen>
+    	
+    <dimen name="sizesp224">477.8667sp</dimen>
+    	
+    <dimen name="sizesp225">480.0000sp</dimen>
+    	
+    <dimen name="sizesp226">482.1333sp</dimen>
+    	
+    <dimen name="sizesp227">484.2667sp</dimen>
+    	
+    <dimen name="sizesp228">486.4000sp</dimen>
+    	
+    <dimen name="sizesp229">488.5333sp</dimen>
+    	
+    <dimen name="sizesp23">49.0667sp</dimen>
+    	
+    <dimen name="sizesp230">490.6667sp</dimen>
+    	
+    <dimen name="sizesp231">492.8000sp</dimen>
+    	
+    <dimen name="sizesp232">494.9333sp</dimen>
+    	
+    <dimen name="sizesp233">497.0667sp</dimen>
+    	
+    <dimen name="sizesp234">499.2000sp</dimen>
+    	
+    <dimen name="sizesp235">501.3333sp</dimen>
+    	
+    <dimen name="sizesp236">503.4667sp</dimen>
+    	
+    <dimen name="sizesp237">505.6000sp</dimen>
+    	
+    <dimen name="sizesp238">507.7333sp</dimen>
+    	
+    <dimen name="sizesp239">509.8667sp</dimen>
+    	
+    <dimen name="sizesp24">51.2000sp</dimen>
+    	
+    <dimen name="sizesp240">512.0000sp</dimen>
+    	
+    <dimen name="sizesp241">514.1333sp</dimen>
+    	
+    <dimen name="sizesp242">516.2667sp</dimen>
+    	
+    <dimen name="sizesp243">518.4000sp</dimen>
+    	
+    <dimen name="sizesp244">520.5333sp</dimen>
+    	
+    <dimen name="sizesp245">522.6667sp</dimen>
+    	
+    <dimen name="sizesp246">524.8000sp</dimen>
+    	
+    <dimen name="sizesp247">526.9333sp</dimen>
+    	
+    <dimen name="sizesp248">529.0667sp</dimen>
+    	
+    <dimen name="sizesp249">531.2000sp</dimen>
+    	
+    <dimen name="sizesp25">53.3333sp</dimen>
+    	
+    <dimen name="sizesp250">533.3333sp</dimen>
+    	
+    <dimen name="sizesp251">535.4667sp</dimen>
+    	
+    <dimen name="sizesp252">537.6000sp</dimen>
+    	
+    <dimen name="sizesp253">539.7333sp</dimen>
+    	
+    <dimen name="sizesp254">541.8667sp</dimen>
+    	
+    <dimen name="sizesp255">544.0000sp</dimen>
+    	
+    <dimen name="sizesp256">546.1333sp</dimen>
+    	
+    <dimen name="sizesp257">548.2667sp</dimen>
+    	
+    <dimen name="sizesp258">550.4000sp</dimen>
+    	
+    <dimen name="sizesp259">552.5333sp</dimen>
+    	
+    <dimen name="sizesp26">55.4667sp</dimen>
+    	
+    <dimen name="sizesp260">554.6667sp</dimen>
+    	
+    <dimen name="sizesp261">556.8000sp</dimen>
+    	
+    <dimen name="sizesp262">558.9333sp</dimen>
+    	
+    <dimen name="sizesp263">561.0667sp</dimen>
+    	
+    <dimen name="sizesp264">563.2000sp</dimen>
+    	
+    <dimen name="sizesp265">565.3333sp</dimen>
+    	
+    <dimen name="sizesp266">567.4667sp</dimen>
+    	
+    <dimen name="sizesp267">569.6000sp</dimen>
+    	
+    <dimen name="sizesp268">571.7333sp</dimen>
+    	
+    <dimen name="sizesp269">573.8667sp</dimen>
+    	
+    <dimen name="sizesp27">57.6000sp</dimen>
+    	
+    <dimen name="sizesp270">576.0000sp</dimen>
+    	
+    <dimen name="sizesp271">578.1333sp</dimen>
+    	
+    <dimen name="sizesp272">580.2667sp</dimen>
+    	
+    <dimen name="sizesp273">582.4000sp</dimen>
+    	
+    <dimen name="sizesp274">584.5333sp</dimen>
+    	
+    <dimen name="sizesp275">586.6667sp</dimen>
+    	
+    <dimen name="sizesp276">588.8000sp</dimen>
+    	
+    <dimen name="sizesp277">590.9333sp</dimen>
+    	
+    <dimen name="sizesp278">593.0667sp</dimen>
+    	
+    <dimen name="sizesp279">595.2000sp</dimen>
+    	
+    <dimen name="sizesp28">59.7333sp</dimen>
+    	
+    <dimen name="sizesp280">597.3333sp</dimen>
+    	
+    <dimen name="sizesp281">599.4667sp</dimen>
+    	
+    <dimen name="sizesp282">601.6000sp</dimen>
+    	
+    <dimen name="sizesp283">603.7333sp</dimen>
+    	
+    <dimen name="sizesp284">605.8667sp</dimen>
+    	
+    <dimen name="sizesp285">608.0000sp</dimen>
+    	
+    <dimen name="sizesp286">610.1333sp</dimen>
+    	
+    <dimen name="sizesp287">612.2667sp</dimen>
+    	
+    <dimen name="sizesp288">614.4000sp</dimen>
+    	
+    <dimen name="sizesp289">616.5333sp</dimen>
+    	
+    <dimen name="sizesp29">61.8667sp</dimen>
+    	
+    <dimen name="sizesp290">618.6667sp</dimen>
+    	
+    <dimen name="sizesp291">620.8000sp</dimen>
+    	
+    <dimen name="sizesp292">622.9333sp</dimen>
+    	
+    <dimen name="sizesp293">625.0667sp</dimen>
+    	
+    <dimen name="sizesp294">627.2000sp</dimen>
+    	
+    <dimen name="sizesp295">629.3333sp</dimen>
+    	
+    <dimen name="sizesp296">631.4667sp</dimen>
+    	
+    <dimen name="sizesp297">633.6000sp</dimen>
+    	
+    <dimen name="sizesp298">635.7333sp</dimen>
+    	
+    <dimen name="sizesp299">637.8667sp</dimen>
+    	
+    <dimen name="sizesp3">6.4000sp</dimen>
+    	
+    <dimen name="sizesp30">64.0000sp</dimen>
+    	
+    <dimen name="sizesp300">640.0000sp</dimen>
+    	
+    <dimen name="sizesp301">642.1333sp</dimen>
+    	
+    <dimen name="sizesp302">644.2667sp</dimen>
+    	
+    <dimen name="sizesp303">646.4000sp</dimen>
+    	
+    <dimen name="sizesp304">648.5333sp</dimen>
+    	
+    <dimen name="sizesp305">650.6667sp</dimen>
+    	
+    <dimen name="sizesp306">652.8000sp</dimen>
+    	
+    <dimen name="sizesp307">654.9333sp</dimen>
+    	
+    <dimen name="sizesp308">657.0667sp</dimen>
+    	
+    <dimen name="sizesp309">659.2000sp</dimen>
+    	
+    <dimen name="sizesp31">66.1333sp</dimen>
+    	
+    <dimen name="sizesp310">661.3333sp</dimen>
+    	
+    <dimen name="sizesp311">663.4667sp</dimen>
+    	
+    <dimen name="sizesp312">665.6000sp</dimen>
+    	
+    <dimen name="sizesp313">667.7333sp</dimen>
+    	
+    <dimen name="sizesp314">669.8667sp</dimen>
+    	
+    <dimen name="sizesp315">672.0000sp</dimen>
+    	
+    <dimen name="sizesp316">674.1333sp</dimen>
+    	
+    <dimen name="sizesp317">676.2667sp</dimen>
+    	
+    <dimen name="sizesp318">678.4000sp</dimen>
+    	
+    <dimen name="sizesp319">680.5333sp</dimen>
+    	
+    <dimen name="sizesp32">68.2667sp</dimen>
+    	
+    <dimen name="sizesp320">682.6667sp</dimen>
+    	
+    <dimen name="sizesp321">684.8000sp</dimen>
+    	
+    <dimen name="sizesp322">686.9333sp</dimen>
+    	
+    <dimen name="sizesp323">689.0667sp</dimen>
+    	
+    <dimen name="sizesp324">691.2000sp</dimen>
+    	
+    <dimen name="sizesp325">693.3333sp</dimen>
+    	
+    <dimen name="sizesp326">695.4667sp</dimen>
+    	
+    <dimen name="sizesp327">697.6000sp</dimen>
+    	
+    <dimen name="sizesp328">699.7333sp</dimen>
+    	
+    <dimen name="sizesp329">701.8667sp</dimen>
+    	
+    <dimen name="sizesp33">70.4000sp</dimen>
+    	
+    <dimen name="sizesp330">704.0000sp</dimen>
+    	
+    <dimen name="sizesp331">706.1333sp</dimen>
+    	
+    <dimen name="sizesp332">708.2667sp</dimen>
+    	
+    <dimen name="sizesp333">710.4000sp</dimen>
+    	
+    <dimen name="sizesp334">712.5333sp</dimen>
+    	
+    <dimen name="sizesp335">714.6667sp</dimen>
+    	
+    <dimen name="sizesp336">716.8000sp</dimen>
+    	
+    <dimen name="sizesp337">718.9333sp</dimen>
+    	
+    <dimen name="sizesp338">721.0667sp</dimen>
+    	
+    <dimen name="sizesp339">723.2000sp</dimen>
+    	
+    <dimen name="sizesp34">72.5333sp</dimen>
+    	
+    <dimen name="sizesp340">725.3333sp</dimen>
+    	
+    <dimen name="sizesp341">727.4667sp</dimen>
+    	
+    <dimen name="sizesp342">729.6000sp</dimen>
+    	
+    <dimen name="sizesp343">731.7333sp</dimen>
+    	
+    <dimen name="sizesp344">733.8667sp</dimen>
+    	
+    <dimen name="sizesp345">736.0000sp</dimen>
+    	
+    <dimen name="sizesp346">738.1333sp</dimen>
+    	
+    <dimen name="sizesp347">740.2667sp</dimen>
+    	
+    <dimen name="sizesp348">742.4000sp</dimen>
+    	
+    <dimen name="sizesp349">744.5333sp</dimen>
+    	
+    <dimen name="sizesp35">74.6667sp</dimen>
+    	
+    <dimen name="sizesp350">746.6667sp</dimen>
+    	
+    <dimen name="sizesp351">748.8000sp</dimen>
+    	
+    <dimen name="sizesp352">750.9333sp</dimen>
+    	
+    <dimen name="sizesp353">753.0667sp</dimen>
+    	
+    <dimen name="sizesp354">755.2000sp</dimen>
+    	
+    <dimen name="sizesp355">757.3333sp</dimen>
+    	
+    <dimen name="sizesp356">759.4667sp</dimen>
+    	
+    <dimen name="sizesp357">761.6000sp</dimen>
+    	
+    <dimen name="sizesp358">763.7333sp</dimen>
+    	
+    <dimen name="sizesp359">765.8667sp</dimen>
+    	
+    <dimen name="sizesp36">76.8000sp</dimen>
+    	
+    <dimen name="sizesp360">768.0000sp</dimen>
+    	
+    <dimen name="sizesp37">78.9333sp</dimen>
+    	
+    <dimen name="sizesp38">81.0667sp</dimen>
+    	
+    <dimen name="sizesp39">83.2000sp</dimen>
+    	
+    <dimen name="sizesp4">8.5333sp</dimen>
+    	
+    <dimen name="sizesp40">85.3333sp</dimen>
+    	
+    <dimen name="sizesp41">87.4667sp</dimen>
+    	
+    <dimen name="sizesp42">89.6000sp</dimen>
+    	
+    <dimen name="sizesp420">896.0000sp</dimen>
+    	
+    <dimen name="sizesp422">900.2667sp</dimen>
+    	
+    <dimen name="sizesp427">910.9333sp</dimen>
+    	
+    <dimen name="sizesp43">91.7333sp</dimen>
+    	
+    <dimen name="sizesp44">93.8667sp</dimen>
+    	
+    <dimen name="sizesp442">942.9333sp</dimen>
+    	
+    <dimen name="sizesp45">96.0000sp</dimen>
+    	
+    <dimen name="sizesp456">972.8000sp</dimen>
+    	
+    <dimen name="sizesp46">98.1333sp</dimen>
+    	
+    <dimen name="sizesp47">100.2667sp</dimen>
+    	
+    <dimen name="sizesp48">102.4000sp</dimen>
+    	
+    <dimen name="sizesp49">104.5333sp</dimen>
+    	
+    <dimen name="sizesp5">10.6667sp</dimen>
+    	
+    <dimen name="sizesp50">106.6667sp</dimen>
+    	
+    <dimen name="sizesp500">1066.6667sp</dimen>
+    	
+    <dimen name="sizesp51">108.8000sp</dimen>
+    	
+    <dimen name="sizesp52">110.9333sp</dimen>
+    	
+    <dimen name="sizesp53">113.0667sp</dimen>
+    	
+    <dimen name="sizesp54">115.2000sp</dimen>
+    	
+    <dimen name="sizesp55">117.3333sp</dimen>
+    	
+    <dimen name="sizesp550">1173.3333sp</dimen>
+    	
+    <dimen name="sizesp56">119.4667sp</dimen>
+    	
+    <dimen name="sizesp57">121.6000sp</dimen>
+    	
+    <dimen name="sizesp58">123.7333sp</dimen>
+    	
+    <dimen name="sizesp59">125.8667sp</dimen>
+    	
+    <dimen name="sizesp5less">-10.6667sp</dimen>
+    	
+    <dimen name="sizesp6">12.8000sp</dimen>
+    	
+    <dimen name="sizesp60">128.0000sp</dimen>
+    	
+    <dimen name="sizesp61">130.1333sp</dimen>
+    	
+    <dimen name="sizesp62">132.2667sp</dimen>
+    	
+    <dimen name="sizesp63">134.4000sp</dimen>
+    	
+    <dimen name="sizesp64">136.5333sp</dimen>
+    	
+    <dimen name="sizesp65">138.6667sp</dimen>
+    	
+    <dimen name="sizesp66">140.8000sp</dimen>
+    	
+    <dimen name="sizesp67">142.9333sp</dimen>
+    	
+    <dimen name="sizesp68">145.0667sp</dimen>
+    	
+    <dimen name="sizesp69">147.2000sp</dimen>
+    	
+    <dimen name="sizesp7">14.9333sp</dimen>
+    	
+    <dimen name="sizesp70">149.3333sp</dimen>
+    	
+    <dimen name="sizesp71">151.4667sp</dimen>
+    	
+    <dimen name="sizesp72">153.6000sp</dimen>
+    	
+    <dimen name="sizesp73">155.7333sp</dimen>
+    	
+    <dimen name="sizesp74">157.8667sp</dimen>
+    	
+    <dimen name="sizesp75">160.0000sp</dimen>
+    	
+    <dimen name="sizesp76">162.1333sp</dimen>
+    	
+    <dimen name="sizesp77">164.2667sp</dimen>
+    	
+    <dimen name="sizesp78">166.4000sp</dimen>
+    	
+    <dimen name="sizesp79">168.5333sp</dimen>
+    	
+    <dimen name="sizesp8">17.0667sp</dimen>
+    	
+    <dimen name="sizesp80">170.6667sp</dimen>
+    	
+    <dimen name="sizesp81">172.8000sp</dimen>
+    	
+    <dimen name="sizesp82">174.9333sp</dimen>
+    	
+    <dimen name="sizesp83">177.0667sp</dimen>
+    	
+    <dimen name="sizesp84">179.2000sp</dimen>
+    	
+    <dimen name="sizesp85">181.3333sp</dimen>
+    	
+    <dimen name="sizesp86">183.4667sp</dimen>
+    	
+    <dimen name="sizesp87">185.6000sp</dimen>
+    	
+    <dimen name="sizesp88">187.7333sp</dimen>
+    	
+    <dimen name="sizesp89">189.8667sp</dimen>
+    	
+    <dimen name="sizesp9">19.2000sp</dimen>
+    	
+    <dimen name="sizesp90">192.0000sp</dimen>
+    	
+    <dimen name="sizesp91">194.1333sp</dimen>
+    	
+    <dimen name="sizesp92">196.2667sp</dimen>
+    	
+    <dimen name="sizesp93">198.4000sp</dimen>
+    	
+    <dimen name="sizesp94">200.5333sp</dimen>
+    	
+    <dimen name="sizesp95">202.6667sp</dimen>
+    	
+    <dimen name="sizesp96">204.8000sp</dimen>
+    	
+    <dimen name="sizesp97">206.9333sp</dimen>
+    	
+    <dimen name="sizesp98">209.0667sp</dimen>
+    	
+    <dimen name="sizesp99">211.2000sp</dimen>
+    	
+    <dimen name="card_elevation">2.1333sp</dimen>
+    	
+    <dimen name="text_sizesp_20">@dimen/sizesp20</dimen>
+    	
+    <dimen name="text_sizesp_19">@dimen/sizesp19</dimen>
+    	
+    <dimen name="text_sizesp_18">@dimen/sizesp18</dimen>
+    	
+    <dimen name="text_sizesp_17">@dimen/sizesp17</dimen>
+    	
+    <dimen name="text_sizesp_16">@dimen/sizesp16</dimen>
+    	
+    <dimen name="text_sizesp_15">@dimen/sizesp15</dimen>
+    	
+    <dimen name="text_sizesp_14">@dimen/sizesp14</dimen>
+    	
+    <dimen name="text_sizesp_13">@dimen/sizesp13</dimen>
+    	
+    <dimen name="text_sizesp_12">@dimen/sizesp12</dimen>
+    	
+    <dimen name="text_sizesp_11">@dimen/sizesp11</dimen>
+    	
+    <dimen name="text_sizesp_10">@dimen/sizesp10</dimen>
+    	
+    <dimen name="text_sizesp_9">@dimen/sizesp9</dimen>
+</resources>
